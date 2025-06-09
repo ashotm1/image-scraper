@@ -1,0 +1,11 @@
+<svg
+    width="7"
+    height="10"
+    viewBox="0 0 7 10"
+    class="weather-current-precipitation-glyph"
+    xmlns="http://www.w3.org/2000/svg"
+>
+    <path
+        d="M5.97 5.7c.19.36.28.76.28 1.17a3.06 3.06 0 01-.92 2.21 3.11 3.11 0 01-4.9-.63A3.17 3.17 0 010 6.87c0-.4.1-.8.27-1.17L3.1 0l2.87 5.7z"
+    />
+</svg>
