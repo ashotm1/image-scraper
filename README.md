@@ -1,4 +1,4 @@
-# Website Image Scraper
+# Image Scraper
 
 A Python script that scrapes and downloads all images from any website using Playwright.
 
