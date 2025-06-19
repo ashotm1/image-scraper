@@ -16,8 +16,4 @@ A Python script that scrapes and downloads all images from any website using Pla
 - Requests (`pip install requests`)
 - Playwright browsers (`python -m playwright install`)
 
-## Usage
 
-1. Run the script:
-   ```bash
-   python scraper.py
